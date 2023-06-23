@@ -1,3 +1,7 @@
+
+![imagemgerador](https://github.com/LyraGTI/GeradorDeSenhas/assets/106109743/bbb83bc9-1f28-48dc-a724-296d4d5d72f1)
+![imagemgerador2](https://github.com/LyraGTI/GeradorDeSenhas/assets/106109743/78fd1b2f-a0b9-41df-9c75-67b0c30e5a32)
+
 # GeradorDeSenhas
 Bem-vindo ao meu repositório que contém um projeto em JavaScript, CSS e HTML para gerar senhas aleatórias. Essa aplicação simples e eficiente permite que você crie senhas seguras com apenas um clique.
 
